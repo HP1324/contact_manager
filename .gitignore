@@ -1,0 +1,10 @@
+vcpkg.json
+vcpkg_installed/
+*.txt
+.vs
+ContactManger/x64
+x64
+*.exe
+*.pdb
+.conan
+
